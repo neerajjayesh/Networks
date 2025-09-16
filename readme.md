@@ -1,27 +1,23 @@
 # 🌐 Cisco Packet Tracer Projects
 
 A collection of hands-on networking projects built using **Cisco Packet Tracer**.  
-This repository showcases different networking concepts and configurations, from basic setups to more advanced topics such as VLANs, Firewalls, and VPNs.  
-
 ---
 
 ## 📂 Projects Included
 
 ### 🔹 Basic
-- Fundamental networking setups in Packet Tracer.
-- Great for beginners getting started with network simulations.
+- Basic LAN to LAN connection implemented
 
 ### 🔹 DHCP
 - Dynamic Host Configuration Protocol (DHCP) server configuration.
-- Automates IP assignment in the network.
+- Automating provision of ip to every pc in the LAN network
 
 ### 🔹 DHCP via Router
 - Configuring DHCP services directly on a router.
-- Demonstrates router-based IP management.
 
 ### 🔹 DNS
 - Domain Name System (DNS) configuration.
-- Shows how hostnames can be resolved to IP addresses in a network.
+- Make custom domains and access them through the router.
 
 ### 🔹 Default Routing
 - Setting up a default route for network traffic.
@@ -29,19 +25,16 @@ This repository showcases different networking concepts and configurations, from
 
 ### 🔹 Static Routing
 - Manual configuration of routing tables.
-- Highlights how static paths are set between networks.
 
 ### 🔹 VLAN
 - Virtual Local Area Network setup.
-- Segregates networks logically for better efficiency and security.
-
+  
 ### 🔹 Firewall
-- Basic firewall configuration in Packet Tracer.
-- Controls traffic flow and adds a layer of security.
+- Basic firewall configuration
+- Cisco Firewall configuration
 
 ### 🔹 VPN
 - Virtual Private Network configuration.
-- Secure communication across different networks.
 
 ---
 
@@ -53,3 +46,4 @@ This repository showcases different networking concepts and configurations, from
 2. Clone this repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
