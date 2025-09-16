@@ -36,6 +36,15 @@ A collection of hands-on networking projects built using **Cisco Packet Tracer**
 ### 🔹 VPN
 - Virtual Private Network configuration.
 
+### 🔹 Client Server
+- A python code that shows a Server listening and a client sending a string.
+
+### 🔹 OSPF
+- Configured Open SHortest Path First.
+
+### 🔹 RIP
+- Configured a Routing Information Protocol lab
+  
 ---
 
 ## 🚀 Getting Started
@@ -46,5 +55,6 @@ A collection of hands-on networking projects built using **Cisco Packet Tracer**
 2. Clone this repository:
    ```bash
    git clone https://github.com/neerajjayesh/Networks.git
+
 
 
