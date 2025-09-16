@@ -45,5 +45,6 @@ A collection of hands-on networking projects built using **Cisco Packet Tracer**
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/neerajjayesh/Networks.git
+
 
